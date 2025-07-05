@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ed</h1>
-<h3 align="center">A junior fullstack developer from the UK!</h3>
+<h3 align="center">A full stack developer from the UK, based in Amsterdam</h3>
 
-- 🔭 I’m currently **teaching fullstack development to uni graduates.**
+- 🔭 I’m currently **creating and maintaining applications in the sales flow of Rabobank.**
 
-- 🌱 I’m currently learning **Docker, K8s and the CI/CD pipeline.**
+- 🌱 I’m currently learning **AI assisted development.**
 
 - 💬 Ask me about **starting a career in tech :)**
 
 - 📫 How to reach me **edward.hulbert@hotmail.co.uk**
-
-- ⚡ Fun fact: **I have 40+ pets, and only 5 of them are fluffy!!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
