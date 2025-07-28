@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ed</h1>
-<h3 align="center">A full stack developer from the UK, based in Amsterdam</h3>
+<h1>Hi 👋, I'm Ed</h1>
+<h3>A full stack developer from the UK, based in Amsterdam</h3>
 
-- 🔭 I’m currently **creating and maintaining applications in the sales flow of Rabobank.**
+- 🔭 Right now, I’m **working with microservices in the sales flow of Rabobank.**
 
-- 🌱 I’m currently learning **AI assisted development.**
+- 🌱 I’m currently learning **high performance Java and how it can apply to HFT**
 
 - 💬 Ask me about **starting a career in tech :)**
 
